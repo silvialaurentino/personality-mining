@@ -1,3 +1,5 @@
-# Personality Mining
+Personality Mining
+---
+Minerações e treinamentos de modelos sobre a base de dados [Big Five Personality Test](https://www.kaggle.com/tunguz/big-five-personality-test). Desenvolvido com a ferramenta [Orange](https://github.com/biolab/orange3).
 
->[Relatório](https://docs.google.com/document/d/1pyrVHQj1MUMa9jyUuR7ui_2PTbVoFC_hypmZnC_LavA/edit#)
+Minings and model trainings on the database [Big Five Personality Test](https://www.kaggle.com/tunguz/big-five-personality-test). Developed using [Orange](https://github.com/biolab/orange3).
